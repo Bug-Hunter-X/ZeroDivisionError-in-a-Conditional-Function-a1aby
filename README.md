@@ -1,0 +1,1 @@
+This repository contains a Python code example demonstrating an uncommon instance of the common ZeroDivisionError. The error occurs within a conditional function, making its cause slightly less obvious compared to a direct division by zero. The solution provided addresses this by adding an explicit check before the division operation.
